@@ -1,0 +1,4 @@
+model,train_accuracy,accuracy,precision,recall,f1,roc_auc,cv_f1,gap_train_test
+Decision Tree,0.7925,0.7475,0.6413,0.7712,0.7003,0.8052,0.7164,0.045
+Random Forest,0.8425,0.7475,0.6667,0.6797,0.6731,0.8381,0.7127,0.095
+Logistic Regression,0.7719,0.755,0.6846,0.6667,0.6755,0.8447,0.7017,0.0169
