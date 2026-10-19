@@ -1,8 +1,13 @@
-# Loan Approval Prediction
+
+# Studi Kasus Sesi 4 - Loan Approval Prediction
+
+| Nama | Diosi Putri Arlita |
+| :--- | :--- |
+| **NPM** | **G1A023012** |
 
 Proyek machine learning untuk memprediksi **persetujuan pinjaman bank** (*Approved* / *Rejected*) menggunakan pendekatan **supervised learning – classification**.
 
-Proyek ini disusun sebagai studi kasus dari materi *Introduction to Machine Learning* (Taniza Tajuddin, UiTM Cawangan Kedah, Informatic Practitioner Lecture Series 2026), dan mengikuti alur kerja machine learning yang dibahas pada kuliah tersebut.
+Proyek ini disusun sebagai studi kasus dari materi *Introduction to Machine Learning* (Taniza Tajuddin, Informatic Practitioner Lecture Series 2026), dan mengikuti alur kerja machine learning yang dibahas pada kuliah tersebut.
 
 ## Ringkasan Hasil
 
